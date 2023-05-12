@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johngstephen
-- 👀 I’m interested in CyberSecurity/Pentest
+- 👀 I’m interested in CyberSecurity/Pentest & Forensics
 - 🎓 I’m a CyberSecurity Master Student 
 - 👨‍💻 I’m currently work in Cloud DevOps
 
