@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=ecf05e47ohyef2wc8n2752dvcm2a0ksfucv61bhm20t6fmsp&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,6 +30,16 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-est%C3%AAv%C3%A3o-628a2b216/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=ecf05e47ohyef2wc8n2752dvcm2a0ksfucv61bhm20t6fmsp&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif?cid=ecf05e47vaklc23qpnrnjls7qusnwrtwnd33u54rfbnhda2a&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
