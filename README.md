@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ComPlex-U/ComPlex-U/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ComPlex-U/ComPlex-U/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
