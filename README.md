@@ -2,12 +2,23 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComPlex-U&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ComPlex-U&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
@@ -15,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
@@ -34,12 +45,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=ecf05e47ohyef2wc8n2752dvcm2a0ksfucv61bhm20t6fmsp&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ComPlex-U/ComPlex-U/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif?cid=ecf05e47vaklc23qpnrnjls7qusnwrtwnd33u54rfbnhda2a&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif"  />
 </div>
 
 ###
